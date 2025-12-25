@@ -22,4 +22,7 @@ Example datasets:
 
 ## Installation
 ```bash
-pip install -r requirements.txt
+pip install numpy
+pip install pandas
+pip install tensorflow
+
