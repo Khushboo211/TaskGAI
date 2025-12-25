@@ -1,0 +1,8 @@
+#OUTPUT
+print("\nGenerated Text:\n")
+print(generate_text("to be or not to be", length=400, temperature=0.7))
+
+Generated Text:
+
+to be or not to benenting about at babmon in the his lidaud moon the harry masted out the with the loo cout his you rest apout to ham lith muin!’
+“momed,” snormon was wall said acle iom a gow a shisce in the corceately dook, and weren. whour that he waw mastly a hay witklil of bear of mutigald of the mele, brace to the wand gotter reemy of to con fourd the said of had and that wempooged to who grape bewed bething
